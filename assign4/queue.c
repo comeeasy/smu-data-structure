@@ -16,3 +16,7 @@ Queue* init_queue(Queue* q) {
     return q;
 }
 
+Queue* enqueue(Queue* q, element data) {
+    
+}
+
